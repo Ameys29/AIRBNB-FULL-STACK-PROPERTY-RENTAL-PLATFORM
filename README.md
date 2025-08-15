@@ -1,0 +1,4 @@
+AIRBNB-FULL-STACK-PROPERTY-RENTAL-PLATFORM
+
+This full-stack web application allows hosts to list rental properties and guests to search and book short-term stays. The frontend is built using React.js with Redux, while the backend is powered by Java using Spring Boot REST APIs. It uses MySQL for structured data storage and RESTful APIs to ensure smooth communication between frontend and backend. The project includes modules such as user authentication, property listing management, form validation, custom error handling, secure session handling, booking conflict prevention, property filtering, and role-based access control. The system follows a clean modular layered architecture and demonstrates practical implementation of core full-stack development principles. It reflects strong backend service integration, efficient frontend interaction, and the use of modern tools to build scalable and maintainable web applications for real-world use cases.
+
